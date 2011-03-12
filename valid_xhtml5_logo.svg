@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.1" id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="88px" height="31px" viewBox="0 0 88 31" enable-background="new 0 0 88 31" xml:space="preserve">
+<!-- Base background rectangles -->
+<g>
+	<rect x="37" fill="#FFCB74" width="46" height="31"/>
+	<rect fill="#FFFFFF" width="37" height="31"/>
+</g>
+<!-- Lines forming the bevel effect -->
+<line fill="none" stroke="#CCCCCC" stroke-miterlimit="10" x1="0" y1="0.5" x2="83" y2="0.5"/>
+<line fill="none" stroke="#CCCCCC" stroke-miterlimit="10" x1="0.5" y1="1" x2="0.5" y2="31"/>
+<line fill="none" stroke="#CCCCCC" stroke-miterlimit="10" x1="2" y1="29.5" x2="37" y2="29.5"/>
+<line fill="none" stroke="#4A4A4A" stroke-miterlimit="10" x1="1" y1="30.5" x2="81" y2="30.5"/>
+<line fill="none" stroke="#282010" stroke-miterlimit="10" x1="83" y1="30.5" x2="82" y2="30.5"/>
+<line fill="#FFFFFF" stroke="#393939" stroke-miterlimit="10" x1="82" y1="30.5" x2="81" y2="30.5"/>
+<line fill="none" stroke="#4A4A4A" stroke-miterlimit="10" x1="82.5" y1="30" x2="82.5" y2="1"/>
+<line fill="none" stroke="#C39C4E" stroke-miterlimit="10" x1="81.5" y1="29" x2="81.5" y2="1"/>
+<line fill="none" stroke="#EBBC5E" stroke-miterlimit="10" x1="80.5" y1="1" x2="80.5" y2="29"/>
+<line fill="none" stroke="#C39C4E" stroke-miterlimit="10" x1="37" y1="29.5" x2="80" y2="29.5"/>
+<line fill="none" stroke="#848484" stroke-miterlimit="10" x1="81" y1="29.5" x2="80" y2="29.5"/>
+<line fill="none" stroke="#7B7366" stroke-miterlimit="10" x1="81" y1="29.5" x2="81" y2="29.5"/>
+<line fill="none" stroke="#7B7366" stroke-miterlimit="10" x1="82" y1="29.5" x2="81" y2="29.5"/>
+<!-- XHTML5 text link; don't forget to change change YOUR_SITE_URL_HERE by the your site's current URI! -->
+<a xlink:href="http://validator.w3.org/check?uri=YOUR_SITE_URL_HERE&amp;doctype=HTML5"><text transform="matrix(1 0 0 1 40.021 12.167)"><tspan x="0" y="0" font-family="'Arial Black', sans-serif" font-size="10">XHTML</tspan><tspan x="16.144" y="12.5" font-family="'Arial Black', sans-serif" font-size="10">5</tspan></text></a>
+<!-- W3C logo <http://www.w3.org/Icons/WWW/w3c_home_nb-v.svg> -->
+<g shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
+	<g shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
+		<g>
+			<g>
+				<path fill="#005A9C" d="M10.043,7.003l2.879,9.79l2.88-9.79h2.085h5.722v0.973l-2.94,5.064c1.033,0.331,1.815,0.934,2.345,1.808
+					s0.794,1.898,0.794,3.078c0,1.456-0.388,2.682-1.161,3.673c-0.775,0.993-1.778,1.489-3.009,1.489
+					c-0.928,0-1.734-0.295-2.423-0.883c-0.688-0.59-1.198-1.387-1.528-2.394l1.627-0.675c0.238,0.608,0.553,1.089,0.943,1.439
+					c0.392,0.352,0.852,0.525,1.381,0.525c0.556,0,1.025-0.311,1.41-0.932c0.383-0.623,0.576-1.371,0.576-2.245
+					c0-0.967-0.206-1.716-0.617-2.244c-0.477-0.622-1.225-0.934-2.244-0.934h-0.793v-0.953l2.779-4.806h-3.355l-0.191,0.326
+					l-4.082,13.773h-0.197l-2.979-9.968l-2.978,9.968H6.766L2,7.003h2.086l2.879,9.79l1.945-6.592L7.958,7.003H10.043z"/>
+			</g>
+			<path d="M34.444,7.003c-0.409,0-0.777,0.147-1.056,0.43c-0.295,0.3-0.46,0.688-0.46,1.089s0.157,0.772,0.442,1.064
+				c0.293,0.295,0.668,0.456,1.074,0.456c0.396,0,0.781-0.161,1.08-0.452c0.287-0.278,0.443-0.65,0.443-1.068
+				c0-0.405-0.16-0.785-0.439-1.068C35.238,7.159,34.858,7.003,34.444,7.003z M35.766,8.536c0,0.351-0.135,0.675-0.385,0.916
+				C35.12,9.705,34.795,9.84,34.436,9.84c-0.337,0-0.67-0.139-0.92-0.393c-0.249-0.253-0.389-0.579-0.389-0.924
+				c0-0.346,0.145-0.684,0.402-0.945c0.239-0.245,0.564-0.375,0.92-0.375c0.362,0,0.688,0.135,0.941,0.393
+				C35.635,7.839,35.766,8.167,35.766,8.536z M34.486,7.632h-0.65v1.723h0.325V8.62h0.321l0.35,0.734h0.363l-0.384-0.785
+				c0.249-0.051,0.392-0.219,0.392-0.465C35.203,7.792,34.969,7.632,34.486,7.632z M34.428,7.843c0.303,0,0.443,0.085,0.443,0.296
+				c0,0.203-0.141,0.274-0.436,0.274h-0.274v-0.57H34.428z"/>
+		</g>
+		<g>
+			<g>
+				<path d="M31.888,6.913l0.338,2.054l-1.195,2.287c0,0-0.458-0.97-1.222-1.507c-0.642-0.453-1.061-0.551-1.715-0.416
+					c-0.841,0.173-1.794,1.178-2.209,2.417c-0.498,1.482-0.504,2.2-0.521,2.859c-0.027,1.057,0.139,1.681,0.139,1.681
+					s-0.726-1.343-0.719-3.309c0.004-1.404,0.226-2.678,0.875-3.934c0.572-1.104,1.421-1.768,2.176-1.846
+					c0.779-0.08,1.395,0.295,1.871,0.702c0.5,0.427,1.005,1.36,1.005,1.36L31.888,6.913z"/>
+				<path d="M32.035,18.531c0,0-0.528,0.944-0.857,1.309c-0.33,0.364-0.918,1.006-1.646,1.326c-0.729,0.32-1.109,0.381-1.829,0.312
+					c-0.719-0.069-1.385-0.485-1.619-0.659c-0.234-0.173-0.832-0.684-1.17-1.16s-0.867-1.43-0.867-1.43s0.295,0.955,0.479,1.361
+					c0.106,0.232,0.433,0.946,0.896,1.567c0.431,0.579,1.268,1.577,2.542,1.802c1.274,0.227,2.147-0.346,2.364-0.484
+					c0.218-0.14,0.674-0.521,0.963-0.83c0.301-0.323,0.588-0.734,0.745-0.981c0.115-0.181,0.304-0.546,0.304-0.546L32.035,18.531z"
+					/>
+			</g>
+		</g>
+	</g>
+</g>
+<!-- Validation red symbol (radic) -->
+<line fill="none" stroke="#990000" stroke-width="4.8" stroke-miterlimit="10" x1="68.281" y1="18.924" x2="75.88" y2="25.649"/>
+<line fill="none" stroke="#990000" stroke-width="4.8" stroke-miterlimit="10" x1="72.701" y1="25.693" x2="86.241" y2="12.153"/>
+</svg>
