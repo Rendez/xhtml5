@@ -22,7 +22,7 @@
 <line fill="none" stroke="#7B7366" stroke-miterlimit="10" x1="81" y1="29.5" x2="81" y2="29.5"/>
 <line fill="none" stroke="#7B7366" stroke-miterlimit="10" x1="82" y1="29.5" x2="81" y2="29.5"/>
 <!-- XHTML5 text link; don't forget to change change YOUR_SITE_URL_HERE by the your site's current URI! -->
-<a xlink:href="http://validator.w3.org/check?uri=YOUR_SITE_URL_HERE&amp;doctype=HTML5"><text transform="matrix(1 0 0 1 40.021 12.167)"><tspan x="0" y="0" font-family="'Arial Black', sans-serif" font-size="10">XHTML</tspan><tspan x="16.144" y="12.5" font-family="'Arial Black', sans-serif" font-size="10">5</tspan></text></a>
+<a xlink:href="http://validator.w3.org/check?uri=YOUR_SITE_URL_HERE&amp;doctype=HTML5" target="_top"><text transform="matrix(1 0 0 1 40.021 12.167)"><tspan x="0" y="0" font-family="'Arial Black', sans-serif" font-size="10">XHTML</tspan><tspan x="16.144" y="12.5" font-family="'Arial Black', sans-serif" font-size="10">5</tspan></text></a>
 <!-- W3C logo <http://www.w3.org/Icons/WWW/w3c_home_nb-v.svg> -->
 <g shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
 	<g shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
